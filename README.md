@@ -1,4 +1,4 @@
 # -Letscode-br-git-digital-course
-## Curse gIT
+## Curse Git
 ### Salvando alterações no Git
 ### Modificando alterações no Git
